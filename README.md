@@ -4,7 +4,7 @@ Raw data and Rcode used for manuscripts
 This repository archive the data for several manuscripts in the raw format as well as the annotated R code. For further info or additional data contact jen.munnoz@gmail.com or jmunoz@zoology.ubc.ca
 
 # 1.Foraging_ecology_paper_Munoz
-Data and manuscript for the paper on foraging ecology (Submitted The Condor)
+Data and manuscript for the paper on foraging ecology (Submitted The Auk)
 
 Foraging-ecology-paper
 
