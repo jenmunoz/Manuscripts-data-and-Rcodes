@@ -3,7 +3,7 @@ Raw data and Rcode used for manuscripts
 
 This repository archive the data for several manuscripts in the raw format as well as the annotated R code. For further info or additional data contact jen.munnoz@gmail.com or jmunoz@zoology.ubc.ca
 
-# 1.Foraging_ecology_paper_Munoz
+# 1.Foraging_ecology_paper_Munoz&Colorado
 Data and manuscript for the paper on foraging ecology (Submitted JFO)
 
 Foraging-ecology-paper
@@ -12,7 +12,7 @@ The data for this paper was collected in Colombia during the migratory season, a
 of resident and migratory birds participating in Mixed species bird flocks. The habitat include secundary forest and shade 
 coffee plantations.
 
-# 2.Breeding biology Isleria hauxwelli
+# 2.Breeding biology Isleria hauxwelli_Munoz el at
 Data and manuscript for the paper of Breeding biology of Isleria hauxwelli (Submitted JNH)
 
 
