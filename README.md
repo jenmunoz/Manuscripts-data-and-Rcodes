@@ -24,3 +24,26 @@ Data and R scripts for the manuscript. In this study our goal is to use  compari
 
 
 # 4.PNAS_Birds of different feathers flock together: Mixed-species flocks alleviate the cost of ectoparasite transmission in group living birds Munoz et al 2025
+
+Title: Birds of different feathers flock together: Mixed-species flocks alleviate the cost of ectoparasite transmission in group-living birds
+
+Description:
+Data and code supporting the manuscript examining whether participation in mixed-species flocks influences ectoparasitism in Neotropical birds along an elevational gradient. Using social network metrics and phylogenetic Bayesian hierarchical models, we compare parasite presence, abundance, prevalence, and richness between flocking and non-flocking species, and test how individual social connectedness relates to infection risk.
+
+Contents:
+
+Host–parasite records and flock participation data (raw & processed)
+
+Species traits, phylogeny, and social network metrics
+
+Analysis scripts (Bayesian hierarchical models) and output summaries
+
+
+Data use & collaboration:
+For data access, questions, or permissions, please contact Jenny Muñoz (jen.munnoz@gmail.com
+). If these data are used for any publication, we request to discuss collaboration (e.g., co-authorship or formal acknowledgment) prior to submission.
+
+Citation:
+Please cite the dataset alongside the manuscript when reusing any data or code.
+
+Keywords: Avian ectoparasites; mixed-species flocks; social network analysis; elevational gradients; Neotropics; Bayesian phylogenetic models
