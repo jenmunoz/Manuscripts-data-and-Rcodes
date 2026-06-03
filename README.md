@@ -23,7 +23,7 @@ The data for this paper was collected in Peru during the Breeding seasons (2011-
 Data and R scripts for the manuscript. In this study our goal is to use  comparisons of the traits of flocking species,  non-flocking species and the larger bird community, and the traits of flocking species occupying different habitats and elevations, to gain insight into the ecological and evolutionary constraints on mixed-species flock participation, as well as the role of these community modules in structuring bird communities. 
 
 
-# 4.PNAS_Birds of different feathers flock together: Mixed-species flocks alleviate the cost of ectoparasite transmission in group living birds Munoz et al 2025
+# 4.EcoLettersBirds of different feathers flock together: Mixed-species flocks alleviate the cost of ectoparasite transmission in group living birds Munoz et al 
 
 Title: Birds of different feathers flock together: Mixed-species flocks alleviate the cost of ectoparasite transmission in group-living birds
 
